@@ -17,10 +17,10 @@ I'm Maria, a technology student and a future data analyst. I'm from Brazil and I
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cardim.natalia@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marianatalia2003/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-natalia-cardim/)
 
 
-<!--
+
 # 📊 GitHub Stats
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaNatalia2003&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaNatalia2003&&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+
